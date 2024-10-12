@@ -10,8 +10,9 @@ This repository contains scripts for creating a serverless Telegram bot using Go
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
   - [1. Create a Telegram Bot](#1-create-a-telegram-bot)
-  - [2. Deploy Google Apps Script](#2-deploy-google-apps-script)
-  - [3. Set Up Webhook](#3-set-up-webhook)
+  - [2. Get Your Chat ID](#2-get-your-chat-id)
+  - [3. Deploy Google Apps Script](#3-deploy-google-apps-script)
+  - [4. Set Up Webhook](#4-set-up-webhook)
 - [Customizing the Bot](#customizing-the-bot)
 - [License](#license)
 
