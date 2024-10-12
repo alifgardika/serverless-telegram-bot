@@ -2,7 +2,7 @@
 
 This repository contains scripts for creating a serverless Telegram bot using Google Apps Script. The bot responds to the `/start` command and can be configured to restrict access to certain users. 
 
-**Buatan Alif**
+**The Maker Alif**
 
 ## Table of Contents
 
